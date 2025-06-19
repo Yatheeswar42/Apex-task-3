@@ -45,7 +45,7 @@ The **Domain-Based Quiz App** is designed to help beginner-level web developers 
 
 ## 🌐 Live Demo
 
-🔗 [Live Demo](https://your-username.github.io/domain-quiz-app/)
+🔗 [Live Demo](https://yatheeswar42.github.io/Apex-task-3/)
 
 ---
 
